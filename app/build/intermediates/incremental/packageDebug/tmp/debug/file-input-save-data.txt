@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Mar 20 22:35:13 NPT 2021
+1.base=/Users/mansideep/AndroidStudioProjects/ScrollingTextChallenge/app/build/intermediates/transforms/dexMerger/debug/12
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/mansideep/AndroidStudioProjects/ScrollingTextChallenge/app/build/intermediates/transforms/dexMerger/debug/11
+1.path=classes.dex
